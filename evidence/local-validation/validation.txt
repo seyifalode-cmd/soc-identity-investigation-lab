@@ -1,0 +1,37 @@
+Fresh local packaging validation; Python 3.12.14.
+Not an Azure/Jira execution.
+
+Detector ready. Next cell runs its tests.
+PASS | Failures then success: 1 alert(s)
+PASS | One typo then success: 0 alert(s)
+PASS | Failures without success: 0 alert(s)
+PASS | Success before failures: 0 alert(s)
+PASS | Failures outside five minutes: 0 alert(s)
+PASS | Duplicates must not inflate count: 0 alert(s)
+PASS | Exactly five-minute boundary: 1 alert(s)
+PASS | Equal timestamps not proven before: 0 alert(s)
+PASS | Other IP must not be combined: 0 alert(s)
+PASS | Legitimate repeated typos, same pattern: 1 alert(s)
+10 checks passed. A matching pattern still needs investigation.
+AUTOMATIC ALERT: alex - 3 failures before success
+PASS: one alert, repeated delivery suppressed, worker stopped.
+{
+  "alert_id": "rule1:s1",
+  "user": "alex",
+  "ip": "192.0.2.10",
+  "application": "DeliveryPortal",
+  "failures": 3,
+  "success_time": "2026-09-23T09:03:00+00:00",
+  "evidence_ids": [
+    "f1",
+    "f2",
+    "f3",
+    "s1"
+  ],
+  "disposition": "Needs analyst review"
+}
+BEFORE containment: login 200; protected order access 200.
+CONTAINED: old session 401 ; fresh login 403
+Verified by rejected requests, not merely by an admin success message.
+RECOVERY PASS: old password 401; old token 401; new login and order access 200.
+Training server stopped. No enterprise accounts were changed.

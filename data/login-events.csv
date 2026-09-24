@@ -1,0 +1,7 @@
+TimeGenerated,UserName,IPAddress,Result,Application
+2026-09-23T09:00:00Z,alex,192.0.2.10,Failed,DeliveryPortal
+2026-09-23T09:01:00Z,alex,192.0.2.10,Failed,DeliveryPortal
+2026-09-23T09:02:00Z,alex,192.0.2.10,Failed,DeliveryPortal
+2026-09-23T09:03:00Z,alex,192.0.2.10,Success,DeliveryPortal
+2026-09-23T09:04:00Z,maya,198.51.100.20,Success,DeliveryPortal
+2026-09-23T09:05:00Z,ben,203.0.113.30,Failed,DeliveryPortal

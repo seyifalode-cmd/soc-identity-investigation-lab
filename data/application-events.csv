@@ -1,0 +1,4 @@
+TimeGenerated,UserName,Application,Action,Resource,Result
+2026-09-23T09:04:00Z,alex,DeliveryPortal,ViewOrder,Order-1042,Success
+2026-09-23T09:05:00Z,alex,DeliveryPortal,ExportCustomerData,CustomerDirectory,Denied
+2026-09-23T09:06:00Z,alex,DeliveryPortal,Logout,Session,Success
