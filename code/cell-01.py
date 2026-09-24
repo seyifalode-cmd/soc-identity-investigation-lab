@@ -59,12 +59,6 @@ tests = {
     "Failures then success": (pattern, 1),
 
 
-
-
-
-
-
-
     "One typo then success": (
         [event("a", 0, "Failed"), event("b", 60, "Success")],
         0,

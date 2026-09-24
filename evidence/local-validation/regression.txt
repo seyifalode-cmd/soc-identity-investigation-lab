@@ -1,0 +1,18 @@
+test_conflicting_ids_document_last_record_wins (__main__.DetectorRegression.test_conflicting_ids_document_last_record_wins) ... ok
+test_different_applications_do_not_combine (__main__.DetectorRegression.test_different_applications_do_not_combine) ... ok
+test_different_users_do_not_combine (__main__.DetectorRegression.test_different_users_do_not_combine) ... ok
+test_distinct_successes_each_match (__main__.DetectorRegression.test_distinct_successes_each_match) ... ok
+test_duplicate_success_is_one_candidate (__main__.DetectorRegression.test_duplicate_success_is_one_candidate) ... ok
+test_evidence_ids_are_traceable (__main__.DetectorRegression.test_evidence_ids_are_traceable) ... ok
+test_one_second_outside_window (__main__.DetectorRegression.test_one_second_outside_window) ... ok
+test_out_of_order_arrival (__main__.DetectorRegression.test_out_of_order_arrival) ... ok
+test_fixture_counts (__main__.RepositoryChecks.test_fixture_counts) ... ok
+test_full_lab_and_optimized_mode_guard (__main__.RepositoryChecks.test_full_lab_and_optimized_mode_guard) ... ok
+test_local_markdown_targets (__main__.RepositoryChecks.test_local_markdown_targets) ... ok
+test_notebook_matches_cells (__main__.RepositoryChecks.test_notebook_matches_cells) ... ok
+test_source_pdf_integrity (__main__.RepositoryChecks.test_source_pdf_integrity) ... ok
+
+----------------------------------------------------------------------
+Ran 13 tests in 1.534s
+
+OK

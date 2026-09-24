@@ -59,12 +59,6 @@ class Handler(BaseHTTPRequestHandler):
             return self.reply(401, {"error": "bad credentials"})
 
 
-
-
-
-
-
-
         token = secrets.token_urlsafe(24)
         sessions[token] = "alex"
         record("login", "success")
