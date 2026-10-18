@@ -421,4 +421,4 @@ Next improvements would be shared session IDs, conflicting-ID rejection, persist
 
 *Oluwaseyi Michael Falode · Cybersecurity & Cloud Security Engineer · Toronto, ON · September 2026*
 
-[GitHub](https://github.com/seyifalode-cmd) · [LinkedIn](https://www.linkedin.com/in/oluwaseyi-falode/)
+[GitHub](https://github.com/seyifalode-cmd) · [LinkedIn](https://www.linkedin.com/in/oluwaseyi-falode-bb3b1651/)
